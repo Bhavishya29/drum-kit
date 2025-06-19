@@ -14,9 +14,8 @@ This is a simple **JavaScript Drum Kit** web application that I developed as par
 
 ## Technologies Used
 
-- HTML5
+- HTML5 with embedded JavaScript.
 - CSS3
-- JavaScript 
 
 ---
 
